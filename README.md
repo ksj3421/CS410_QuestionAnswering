@@ -1,2 +1,4 @@
 # CS410_QuestionAnswering
-QuestionAnswering Module using for Campuswire
+
+Text Retrieval system in Campus wire is exact matching base
+We would like to improve it by using a sentence representation vector
